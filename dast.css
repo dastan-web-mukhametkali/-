@@ -1,0 +1,59 @@
+body {
+    background: #FFF;
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+#top {
+    background: white;
+    width: 100%;
+    height: 150px;
+}
+#center {
+    background: #DCDCDC;
+    float: right;
+    width: 70%;
+    height: 980px;
+}
+#left {
+    background: #CC99FF;
+    float: left;
+    width: 15%;
+    height: 980px;
+}
+
+#right {
+    background: #CC99FF;
+    float: right;
+    width: 15%;
+    height: 980px;
+}
+#footer {
+    background: #99CCFF;
+    width: 100%;
+    height: 150px;
+}
+table {
+    width: 500px;
+}
+td {
+    text-align: left;
+}
+embed {
+    height: 340px;
+    width: 600px;
+}
+font {
+    align-content: center;
+    font-size: 35px;
+    font-style: italic;
+
+
+
+}
+
+p {
+    size: 9;
+    font-style: Arial;
+}
+

@@ -1,0 +1,61 @@
+
+body{
+    font-family: "Arial",Courier,monospace;
+    color:#000;
+    padding: 0;
+    background:url ("021.jpg");
+    
+}
+
+
+#container{
+    
+    width: 100%;
+    margin: auto auto;
+    border: 2px #000 solid;
+    
+}
+#top{
+    width: 100%;
+    height: 50px;
+    background: #FF0000;
+    
+    text-align: center;
+}
+
+#left_bar{
+    background: yellow;
+    width: 25%;
+    height: 500px;
+    float: left;
+}
+#main{
+    position: relative;
+    background-image: url(021.png);
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+#footer{
+    background:blue;
+    width: 100%;
+    height: 70px;
+    
+}
+#right_bar{
+    background: rgb(165, 190, 18);
+    width: 25%;
+    height: 500px;
+    text-align: center;
+    float: right;
+    font-family: "Arial",Courier,monospace;
+    font-size: 27px; 
+    
+}
+.clear{
+    clear: both;
+}
+
+
+
+
